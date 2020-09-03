@@ -1,0 +1,11 @@
+p{
+    line-height: 25px;
+    text-align: justify;
+}
+
+@media only screen and (max-width: 600px) {
+
+.about-title h2{
+    font-size: 27px;
+}
+}

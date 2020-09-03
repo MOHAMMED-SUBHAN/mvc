@@ -1,0 +1,30 @@
+@media only screen and (max-width: 600px) {
+
+.socials{
+    margin-top: 40px;
+    text-align: center !important;
+}
+
+#top-menu{
+    float: right;
+}
+.mail-id {
+    float: right !important;
+}
+
+
+}
+
+
+.navbar{
+    background-color: #bb25e0 !important;
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+.navbar-nav>li>a {
+    color: #fff !important;
+}

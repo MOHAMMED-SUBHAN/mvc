@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+
+
+    .magic-area .content h2{
+        font-size: 30px;
+    }
+    .magic-area .content h3{
+        font-size: 28px;
+    }
+}

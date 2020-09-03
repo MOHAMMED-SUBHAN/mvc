@@ -1,0 +1,31 @@
+.slide-text {
+    display: table;
+    float: left;
+    height: 100%;
+    position: relative;
+    margin-left: 150px;
+   
+}
+
+.middle-text {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.cap-title h1 {
+    width: 545px !important;
+}
+
+.cap-title h2 {
+
+width: 625px !important;
+
+}
+/* @media only screen and (max-width: 600px) {
+.carousel h2{
+    font-size: 18px;
+    margin-left: -600px;
+}
+
+
+} */
