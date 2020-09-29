@@ -50,6 +50,7 @@ body {
 h1, h2, h3, h4, h5, h6, p {
   margin:0;
 }
+
 a {
   color: #3e3f3f;
   -webkit-transition: all 0.3s ease 0s;
